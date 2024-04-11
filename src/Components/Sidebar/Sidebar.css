@@ -56,3 +56,8 @@
 .small-sidebar h3 {
     font-size: x-small;
 }
+
+.side-link.active img {
+    padding-bottom: 2px;
+    border-bottom: 3px solid rgb(245, 18, 18);
+}
